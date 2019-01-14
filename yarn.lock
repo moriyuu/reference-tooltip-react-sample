@@ -3609,7 +3609,7 @@ reduce-function-call@^1.0.1:
 
 "reference-tooltip@git+https://github.com/moriyuu/reference-tooltip":
   version "0.1.0"
-  resolved "git+https://github.com/moriyuu/reference-tooltip#11c8d73704e923addc855bdc749ecb048a59bf8d"
+  resolved "git+https://github.com/moriyuu/reference-tooltip#95a303f6cfb536c6eb500edbd9339e4d5209dd0e"
   dependencies:
     lit-html "^1.0.0-rc.2"
 
