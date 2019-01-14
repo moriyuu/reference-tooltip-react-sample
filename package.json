@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html",
+    "deploy": "netlify deploy --prod"
   },
   "author": "",
   "license": "ISC",
