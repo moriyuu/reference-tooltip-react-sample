@@ -2831,8 +2831,8 @@ pako@^0.2.5:
   resolved "https://registry.yarnpkg.com/pako/-/pako-0.2.9.tgz#f3f7522f4ef782348da8161bad9ecfd51bf83a75"
 
 pako@~1.0.5:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/pako/-/pako-1.0.7.tgz#2473439021b57f1516c82f58be7275ad8ef1bb27"
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/pako/-/pako-1.0.8.tgz#6844890aab9c635af868ad5fecc62e8acbba3ea4"
 
 parcel-bundler@^1.11.0:
   version "1.11.0"
@@ -3609,7 +3609,7 @@ reduce-function-call@^1.0.1:
 
 "reference-tooltip@git+https://github.com/moriyuu/reference-tooltip":
   version "0.1.0"
-  resolved "git+https://github.com/moriyuu/reference-tooltip#ffdfaaa0ebdf44f528aac188328846db9b5cd7d1"
+  resolved "git+https://github.com/moriyuu/reference-tooltip#11c8d73704e923addc855bdc749ecb048a59bf8d"
   dependencies:
     lit-html "^1.0.0-rc.2"
 
