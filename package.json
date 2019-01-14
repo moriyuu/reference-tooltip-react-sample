@@ -1,0 +1,19 @@
+{
+  "name": "reference-tooltip-react-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  },
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "reference-tooltip": "git+https://github.com/moriyuu/reference-tooltip"
+  }
+}
