@@ -3,13 +3,17 @@
   "version": "0.2.0",
   "description": "",
   "main": "index.js",
+  "author": "moriyuu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moriyuu/reference-tooltip-react-sample"
+  },
   "scripts": {
     "dev": "parcel index.html",
     "build": "parcel build index.html",
     "deploy": "netlify deploy --prod"
   },
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "parcel-bundler": "^1.11.0"
   },
